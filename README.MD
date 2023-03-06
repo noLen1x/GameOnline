@@ -11,7 +11,7 @@ The plugin adds to your server the ability to view the game time with the suppor
 
 # For developers
 
-The plugin has a method for further work with the top.
+The plugin has a method for further work with the online-tops.
 
 ```
 public function getTopUsers(int $cPage) : ?string
