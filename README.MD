@@ -1,8 +1,6 @@
-
-
+The plugin adds to your server the ability to view the game time with the support of the database Sql3Lite.
 The plugin has a method for further work with the top.
 
-Thank you for choosing my plugin.
+Commands:
 
-You can find more plugins in our group: https://vk.com/hlebix_pl
-Order a plugin from scratch: https://vk.com/nolenix
+/online - View your own game time
