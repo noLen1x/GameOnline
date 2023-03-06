@@ -1,3 +1,7 @@
+
+
+The plugin has a method for further work with the top.
+
 Thank you for choosing my plugin.
 
 You can find more plugins in our group: https://vk.com/hlebix_pl
