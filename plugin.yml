@@ -1,0 +1,10 @@
+---
+api: 3.0.0
+version: 1.0
+
+name: GameOnline
+author: noLen1x
+website: vk.com/nolenix
+
+main: nolenix\GameOnline\Loader
+...
