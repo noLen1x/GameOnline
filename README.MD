@@ -7,7 +7,7 @@ The plugin adds to your server the ability to view the game time with the suppor
 
 # Commands
 
-online - View your own game time
+/online - View your own game time
 ![l5RTb4-a2B0](https://user-images.githubusercontent.com/119180406/223235009-2a37c819-5f57-4bce-a6ea-e670486cde17.jpg)
 
 # For developers
