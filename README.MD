@@ -1,7 +1,6 @@
 # GameOnline
 
-The plugin is designed for the PMMP3 software. 
-The active core for the plugin: Prismarine.
+Plugin is designed for the PMMP3 software. Active core for the plugin: Prismarine.
 
 The plugin adds to your server the ability to view the game time with the support of the database Sql3Lite.
 
